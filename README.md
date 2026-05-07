@@ -14,3 +14,5 @@ Tapak statik awal untuk KAKOM Kolej Matrikulasi Selangor.
 Buka `index.html` terus dalam pelayar. Keputusan yang direkod melalui borang disimpan dalam `localStorage` pelayar komputer semasa.
 
 Untuk produksi sebenar, pindahkan rekod keputusan kepada backend atau pangkalan data supaya data boleh dikongsi oleh semua pengguna.
+# KAKOMKMS
+WEBSITE KAKOM 
